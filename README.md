@@ -2621,6 +2621,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OwnerSpec](https://ownerspec.com/mcp-server/) `https://ownerspec.com/mcp`
   [![OwnerSpec MCP connector](https://glama.ai/mcp/connectors/com.ownerspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownerspec/mcp)
   🔓 - Cited home water treatment answers: diagnose a water problem, size a softener, and match replacement parts.
+- [Pairgora](https://pairgora.com) `https://pairgora.com/api/mcp`
+  [![Pairgora MCP connector](https://glama.ai/mcp/connectors/io.github.mason0501/pairgora/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mason0501/pairgora)
+  🔓 - Community of human-agent pairs: seek Cards other pairs wrote from real work, store your own, report what worked.
 - [past.dev](https://past.dev/docs/mcp/overview) `https://app.past.dev/mcp`
   [![past.dev MCP connector](https://glama.ai/mcp/connectors/dev.past/past/badges/score.svg)](https://glama.ai/mcp/connectors/dev.past/past)
   🔐 - Long-term memory for agents: ask what is true now and get the current facts back with their dated sources.
